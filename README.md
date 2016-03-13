@@ -9,6 +9,7 @@
 - [Contracts](#contracts)
 - [Advance](#advance)
 - [Publishers](#publishers)
+- [List of Publishers](#list-of-publishers)
 
 ## Must Reads
 
@@ -37,6 +38,10 @@
 - [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 
 ## Publishers
+
+- [Scott Meyers' Advice on Finding a Publisher](http://www.aristeia.com/authorAdvice.html#findingAPublisher)
+
+## List of Publishers
 
 - [O’Reilly](http://www.oreilly.com/work-with-us.html)
 - [Apress](http://www.apress.com/write-for-us/)
