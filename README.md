@@ -1,5 +1,5 @@
 # Awesome Book Authoring
-A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for technical book authors
+A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) resources for technical book authors.
 
 # Table of Contents
 
@@ -20,12 +20,12 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Preparing a Book Proposal
 
+- [The Proposal (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html)
 - [Scott Meyers' Advice on Preparing a Book Proposal](http://www.aristeia.com/authorAdvice.html#bookProposal)
 - [Write for Us (Pearson Education)](http://www.informit.com/about/write_for_us.aspx)
 - [Drafting a Proposal (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677)
 - [Anatomy of a TOC (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678)
 - [Proposal Guidelines (The Pragmatic Programmers)](https://pragprog.com/write-for-us/proposal-guidelines)
-- [The Proposal (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html)
 
 ## Contracts
 
