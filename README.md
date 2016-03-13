@@ -4,7 +4,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 # Table of Contents
 
 - [Must Reads](#must-reads)
-- [Preparing a Book Proposal](#preparing-a-book-proposal)
+- [Book Proposals](#book-proposals)
 - [Contracts](#contracts)
 - [Money](#money)
   - [Advance](#advance)
@@ -18,7 +18,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
 
-## Preparing a Book Proposal
+## Book Proposals
 
 - [The Proposal (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html)
 - [Scott Meyers' Advice on Preparing a Book Proposal](http://www.aristeia.com/authorAdvice.html#bookProposal)
