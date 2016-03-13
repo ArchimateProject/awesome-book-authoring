@@ -4,6 +4,8 @@
 # Table of Contents
 
 - [Must Reads](#must-reads)
+- [The Basics](#the-basics)
+- [Preparing a Book Proposal](#preparing-a-book-proposal)
 - [Contracts](#contracts)
 - [Advance](#advance)
 - [Publishers](#publishers)
@@ -12,9 +14,22 @@
 
 - [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
 
+## The Basics
+
+- [Que Publishing - The Editing Process and Editor Types](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
+
+## Preparing a Book Proposal
+
+- [Scott Meyers' Advice on Preparing a Book Proposal](http://www.aristeia.com/authorAdvice.html#bookProposal)
+- [Pearson Education - Write for Us](http://www.informit.com/about/write_for_us.aspx)
+- [Que Publishing - Drafting a Proposal](http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677)
+- [Que Publishing - Anatomy of a TOC](http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678)
+- [The Pragmatic Programmers - Proposal Guidelines](https://pragprog.com/write-for-us/proposal-guidelines)
+
 ## Contracts
 
 - [Book Contract: What’s Negotiable and What’s Not](http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not)
+- [Apress Standard Contract](http://www.apress.com/files/Apress_Contract.pdf)
 
 ## Advance
 
@@ -27,3 +42,5 @@
 - [Apress](http://www.apress.com/write-for-us/)
 - [The Pragmatic Programmers](https://write-with-us.pragprog.com/)
 - [Packt Publishing](http://authors.packtpub.com/)
+- [Pearson (parent company for Addison-Wesley, Prentice Hall Professional, Que, Sams, and more)](http://www.informit.com/about/write_for_us.aspx)
+- [Que Publishing](http://www.quepublishing.com/about/write_for_us.aspx)
