@@ -4,20 +4,16 @@
 # Table of Contents
 
 - [Must Reads](#must-reads)
-- [The Basics](#the-basics)
 - [Preparing a Book Proposal](#preparing-a-book-proposal)
 - [Contracts](#contracts)
 - [Advance](#advance)
+- [Editors](#editors)
 - [Publishers](#publishers)
 - [List of Publishers](#list-of-publishers)
 
 ## Must Reads
 
 - [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
-
-## The Basics
-
-- [The Editing Process and Editor Types (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
 
 ## Preparing a Book Proposal
 
@@ -36,6 +32,11 @@
 
 - [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml) - The benefits for writing a technical book, and the basics of how book advances work.
 - [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
+
+## Editors
+
+- [Scott Meyers on the Importance of a Good Editor](http://www.aristeia.com/authorAdvice.html#publishersAndEditors)
+- [The Editing Process and Editor Types (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
 
 ## Publishers
 
