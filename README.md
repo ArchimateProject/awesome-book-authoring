@@ -27,6 +27,7 @@
 
 - [Book Contract: What’s Negotiable and What’s Not](http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not)
 - [Apress Standard Contract](http://www.apress.com/files/Apress_Contract.pdf)
+- [Scott Meyers' Advice on Contracts](http://www.aristeia.com/authorAdvice.html#contracts)
 
 ## Advance
 
