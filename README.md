@@ -6,7 +6,8 @@
 - [Must Reads](#must-reads)
 - [Preparing a Book Proposal](#preparing-a-book-proposal)
 - [Contracts](#contracts)
-- [Advance](#advance)
+- [Money](#money)
+  - [Advance](#advance)
 - [Editors](#editors)
 - [Publishers](#publishers)
 - [Misc.](#misc)
@@ -30,7 +31,11 @@
 - [Apress Standard Contract](http://www.apress.com/files/Apress_Contract.pdf)
 - [Scott Meyers' Advice on Contracts](http://www.aristeia.com/authorAdvice.html#contracts)
 
-## Advance
+## Money
+
+- [Scott Meyers on Royalties, Advances, and Other Money Stuff](http://www.aristeia.com/authorAdvice.html#moneyStuff)
+
+### Advance
 
 - [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml) - The benefits for writing a technical book, and the basics of how book advances work.
 - [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
