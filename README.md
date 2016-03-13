@@ -3,10 +3,14 @@
 
 # Table of Contents
 
+- [Must Reads](#must-reads)
 - [Contracts](#contracts)
 - [Advance](#advance)
 - [Publishers](#publishers)
 
+## Must Reads
+
+- [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
 
 ## Contracts
 
@@ -21,3 +25,5 @@
 
 - [O’Reilly](http://www.oreilly.com/work-with-us.html)
 - [Apress](http://www.apress.com/write-for-us/)
+- [The Pragmatic Programmers](https://write-with-us.pragprog.com/)
+- [Packt Publishing](http://authors.packtpub.com/)
