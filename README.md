@@ -10,6 +10,7 @@
   - [Advance](#advance)
 - [Editors](#editors)
 - [Publishers](#publishers)
+- [Marketing](#marketing)
 - [Misc.](#misc)
 - [List of Publishers](#list-of-publishers)
 
@@ -24,17 +25,19 @@
 - [Drafting a Proposal (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677)
 - [Anatomy of a TOC (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678)
 - [Proposal Guidelines (The Pragmatic Programmers)](https://pragprog.com/write-for-us/proposal-guidelines)
+- [The Proposal (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130809065323/http://oreilly.com/oreilly/author/ch02.html)
 
 ## Contracts
 
 - [Book Contract: What’s Negotiable and What’s Not](http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not)
 - [Apress Standard Contract](http://www.apress.com/files/Apress_Contract.pdf)
 - [Scott Meyers' Advice on Contracts](http://www.aristeia.com/authorAdvice.html#contracts)
+- [The Contract (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html)
 
 ## Money
 
 - [Scott Meyers on Royalties, Advances, and Other Money Stuff](http://www.aristeia.com/authorAdvice.html#moneyStuff)
-- [Royalties and Advances (O'Reilly So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#royadv)
+- [Royalties and Advances (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#royadv)
 
   ### Advance
 
@@ -46,10 +49,15 @@
 
 - [Scott Meyers on the Importance of a Good Editor](http://www.aristeia.com/authorAdvice.html#publishersAndEditors)
 - [The Editing Process and Editor Types (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
+- [Writing and Editing (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130710213743/http://oreilly.com/oreilly/author/ch04.html)
 
 ## Publishers
 
 - [Scott Meyers' Advice on Finding a Publisher](http://www.aristeia.com/authorAdvice.html#findingAPublisher)
+
+## Marketing
+
+- [Marketing Your Book (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130711002825/http://oreilly.com/oreilly/author/ch06.html)
 
 # Misc.
 
