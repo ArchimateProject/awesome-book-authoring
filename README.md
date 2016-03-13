@@ -1,5 +1,5 @@
 # awesome-authoring
-:notebook: A collection of awesome resources for technical book authors
+:books: A collection of awesome resources for technical book authors
 
 # Table of Contents
 
