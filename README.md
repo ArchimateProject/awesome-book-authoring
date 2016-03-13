@@ -34,11 +34,13 @@
 ## Money
 
 - [Scott Meyers on Royalties, Advances, and Other Money Stuff](http://www.aristeia.com/authorAdvice.html#moneyStuff)
+- [Royalties and Advances (O'Reilly So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#royadv)
 
   ### Advance
 
   - [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml) - The benefits for writing a technical book, and the basics of how book advances work.
   - [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
+- [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
 ## Editors
 
