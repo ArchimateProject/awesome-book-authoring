@@ -9,6 +9,7 @@
 - [Advance](#advance)
 - [Editors](#editors)
 - [Publishers](#publishers)
+- [Misc.](#misc)
 - [List of Publishers](#list-of-publishers)
 
 ## Must Reads
@@ -42,6 +43,10 @@
 ## Publishers
 
 - [Scott Meyers' Advice on Finding a Publisher](http://www.aristeia.com/authorAdvice.html#findingAPublisher)
+
+# Misc.
+
+- [Scott Meyers on Advance Sales, and How They Are Impacted by The Delivery Schedule](http://www.aristeia.com/authorAdvice.html#schedule)
 
 ## List of Publishers
 
