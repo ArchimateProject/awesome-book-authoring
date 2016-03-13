@@ -16,15 +16,15 @@
 
 ## The Basics
 
-- [Que Publishing - The Editing Process and Editor Types](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
+- [The Editing Process and Editor Types (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-the-editing-process-137679)
 
 ## Preparing a Book Proposal
 
 - [Scott Meyers' Advice on Preparing a Book Proposal](http://www.aristeia.com/authorAdvice.html#bookProposal)
-- [Pearson Education - Write for Us](http://www.informit.com/about/write_for_us.aspx)
-- [Que Publishing - Drafting a Proposal](http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677)
-- [Que Publishing - Anatomy of a TOC](http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678)
-- [The Pragmatic Programmers - Proposal Guidelines](https://pragprog.com/write-for-us/proposal-guidelines)
+- [Write for Us (Pearson Education)](http://www.informit.com/about/write_for_us.aspx)
+- [Drafting a Proposal (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-drafting-a-proposal-137677)
+- [Anatomy of a TOC (Que Publishing)](http://www.quepublishing.com/promotions/write-for-us-anatomy-of-a-toc-137678)
+- [Proposal Guidelines (The Pragmatic Programmers)](https://pragprog.com/write-for-us/proposal-guidelines)
 
 ## Contracts
 
