@@ -59,7 +59,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Marketing Your Book (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130711002825/http://oreilly.com/oreilly/author/ch06.html)
 
-# Misc.
+## Misc.
 
 - [Scott Meyers on Advance Sales, and How They Are Impacted by The Delivery Schedule](http://www.aristeia.com/authorAdvice.html#schedule)
 
