@@ -72,3 +72,4 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Pearson (parent company for Addison-Wesley, Prentice Hall Professional, Que, Sams, and more)](http://www.informit.com/about/write_for_us.aspx)
 - [Que Publishing](http://www.quepublishing.com/about/write_for_us.aspx)
 - [Manning Publications](https://www.manning.com/write-for-us)
+- [Wrox](http://www.wrox.com/WileyCDA/Section/id-105073.html)
