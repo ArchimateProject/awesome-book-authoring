@@ -73,3 +73,4 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Que Publishing](http://www.quepublishing.com/about/write_for_us.aspx)
 - [Manning Publications](https://www.manning.com/write-for-us)
 - [Wrox](http://www.wrox.com/WileyCDA/Section/id-105073.html)
+- [No Starch Press](https://www.nostarch.com/writeforus.htm)
