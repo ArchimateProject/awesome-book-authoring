@@ -16,6 +16,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Must Reads
 
 - [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
+- [Writing A Technical Book: Is It Worthwhile?](http://www.fasterj.com/articles/bookwriting.shtml)
 
 ## Book Proposals
 
