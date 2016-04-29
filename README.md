@@ -82,3 +82,4 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Personal Experiences, Post Mortems and Campfire Stories
 
 - [Writing a Programming Book: FAQs after Writing Learning React Native](https://medium.com/@brindelle/writing-a-programming-book-faqs-after-writing-learning-react-native-8a5ea8ce04e#.e85mhxolh)
+- [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.
