@@ -12,6 +12,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Marketing](#marketing)
 - [Misc.](#misc)
 - [List of Publishers](#list-of-publishers)
+- [Self Publishing](#self-publishing)
 - [Writing Workflows and Tooling](#writing-workflows-and-tooling)
 - [Personal Experiences, Post Mortems and Campfire Stories](#personal-experiences-post-mortems-and-campfire-stories)
 
@@ -74,6 +75,10 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Manning Publications](https://www.manning.com/write-for-us)
 - [Wrox](http://www.wrox.com/WileyCDA/Section/id-105073.html)
 - [No Starch Press](https://www.nostarch.com/writeforus.htm)
+
+## Self Publishing
+
+- [https://medium.com/@davetron5000/self-vs-professional-publishing-c3397bd7defd#.lrfhasuo5](Self vs Professional Publishing) - The pros and cons of each, plus a look at many of the options available for self publishing.
 
 ## Writing Workflows and Tooling
 
