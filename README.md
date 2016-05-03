@@ -89,3 +89,4 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Writing a Programming Book: FAQs after Writing Learning React Native](https://medium.com/@brindelle/writing-a-programming-book-faqs-after-writing-learning-react-native-8a5ea8ce04e#.e85mhxolh)
 - [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.
 - [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (two of them self published).
+- [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
